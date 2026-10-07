@@ -75,6 +75,6 @@ The small dot in front of each section title shows what is on: **empty** – not
 
 ## Contact
 
-Questions, bugs or ideas: [skaliozz@gmail.com](mailto:skaliozz@gmail.com)
+Questions, bugs or ideas: [anleo.dev@proton.me](mailto:anleo.dev@proton.me)
 
 "OLX" is a trademark of its respective owner. Toolbox for OLX is not affiliated with, endorsed by, or sponsored by OLX.

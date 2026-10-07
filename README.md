@@ -28,6 +28,6 @@ This repository only hosts the extension's public pages (the guide above and the
 
 ## Contact
 
-Questions, bugs or ideas: [skaliozz@gmail.com](mailto:skaliozz@gmail.com)
+Questions, bugs or ideas: [anleo.dev@proton.me](mailto:anleo.dev@proton.me)
 
 _Independent project, not affiliated with OLX. "OLX" is a trademark of its respective owner._

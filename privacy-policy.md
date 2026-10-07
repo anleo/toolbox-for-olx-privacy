@@ -20,4 +20,4 @@ Toolbox for OLX is a browser extension that adds a dark theme, a larger photo ga
 Toolbox for OLX is an independent project. It is not affiliated with, endorsed by, or sponsored by OLX. "OLX" is a trademark of its respective owner.
 
 ## Contact
-skaliozz@gmail.com
+anleo.dev@proton.me
